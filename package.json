@@ -2,7 +2,7 @@
   "name": "admin-dashboard",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<narayan954>.github.io/<admin-dashboard>/",
+  "homepage": "https://narayan954.github.io/admin-dashboard",
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
     "@syncfusion/ej2-react-calendars": "^19.4.48",
